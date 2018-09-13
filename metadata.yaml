@@ -1,0 +1,28 @@
+_repo: Slaveholding-Weighed-in-the-Balance-of-Truth-and-Its-Comparative-Guilt-Illustrated_51371
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fitch, Charles
+    alias: Fitch, Chas. (Charles)
+    birthdate: 1805
+    deathdate: 1844
+    gutenberg_agent_id: '46384'
+    url: http://www.gutenberg.org/2009/agents/46384
+description: ''
+gutenberg_issued: '2016-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51371'
+  lccn: 06033955
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Antislavery movements -- United States'
+- !lcsh 'Slavery -- United States'
+- !lcc 'HT'
+- !lcc 'E300'
+- GITenberg
+title: Slaveholding Weighed in the Balance of Truth, and Its Comparative Guilt Illustrated
+url: http://www.gutenberg.org/ebooks/51371
